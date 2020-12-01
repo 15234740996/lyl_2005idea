@@ -9,6 +9,7 @@ class Lyl2005ideaApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("-----");
     }
 
 }
